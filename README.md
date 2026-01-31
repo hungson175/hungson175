@@ -1,101 +1,93 @@
-<!-- Typing SVG Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Son+Hoang+(Pham+Hung+Son)" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Self-Improving+Coding+Agents+%7C+LLM+Applications" alt="Typing SVG" />
-</div>
+# Pham Hung Son
 
-<br/>
-
-## 🚀 About Me
-
-Software Engineer with **20+ years** of experience spanning AI/ML, LLM applications, and full-stack development. Currently focused on **Generative AI** and building **autonomous self-improving coding agents** that collaborate in teams.
-
-🔬 **Research Areas:**
-- Multi-Agent Systems & Team Collaboration
-- Self-Improving AI Agents with Memory
-- Deep Research Automation
-- LLM-Powered Applications
-
-🏆 **Achievements:**
-- **Zalo AI 2018 Winner** - Image Recognition Category
-- **NWERC 2006** - 8th Place (outperforming Oxford & Cambridge)
-- Mentored engineers who advanced to CTO, EM, and AI R&D Manager roles
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🎯 Recent Projects
-
-### 🤖 [Autonomous Self-Improving Software Teams](https://github.com/hungson175/AI-teams-controller-public)
-Multi-agent teams based on Claude Code + tmux where AI agents collaborate autonomously on sprints. Features include:
-- Team-based sprint workflow (PM, Architect, Developers, Code Reviewer)
-- Progressive implementation pattern
-- Git-driven progress tracking
-
-### 🧠 [Coder-Mem](https://github.com/hungson175/coder-mem)
-Reverse-engineered Claude Code to give it **memory capabilities** so coding agents can learn and improve themselves over time.
-
-### 🔍 [Deep-Research](https://github.com/hungson175/deep-research-langchain)
-Rewrote GPT-Researcher architecture from LangGraph to LangChain - autonomous research system for comprehensive multi-source analysis.
-
-### 📝 [AI Coding Agent Memory Guide](https://github.com/hungson175/AI-teams-controller-public/blob/master/memory-system/docs/tech/memory_guide_draft_v7.md)
-Technical blog on implementing memory systems for coding agents using vector databases and retrieval patterns.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungson175&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungson175&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hungson175&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-sphamhung@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sphamhung@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hungson175-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hungson175)
-
-</div>
-
-<br/>
+**Email:** sphamhung@gmail.com
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hungson175&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
+## PROFESSIONAL SUMMARY
 
-<div align="center">
-  <i>⚡ "Building AI agents that build themselves" ⚡</i>
-</div>
+Software Engineer with 20+ years of experience spanning AI/ML, LLM applications, and full-stack development. Proven track record in leading R&D teams, delivering revenue-impacting solutions (20% YoY growth at Zalo), and building scalable platforms (Adtima). Currently focused on Generative AI and Large Language Models.
+
+**Core Competencies:** LLM Applications | AI/Data Mining | Team Leadership | Python | Java | C++
+
+---
+
+## EXPERIENCE
+
+### Senior Tech Lead | MoMo | 2024 - Present
+- Developing LLM-powered applications: deep-research agents, multi-document reasoning, financial advisory systems, and self-improving coding agents
+
+### Independent Projects | 2020 - 2024
+- **Generative AI Researcher:** Built autonomous research system based on GPT-Researcher architecture
+- **Quantitative Trading System:** Developed backtesting platform using Genetic Algorithms; achieved 15% ROI (2023)
+- **Customer Support Chatbot:** Implemented Langchain + OpenAI-powered assistant for Shopify template selection
+- **Investment Advisor:** Created Multi-Agent System analyzing US market sectors (2017-2021 data)
+
+### Principal Software Engineer | VNG | 2015 - 2020
+- Led R&D team developing AI/Data Mining solutions for Adtima (Zalo), driving 20% annual revenue increase
+- Engineered image processing tools for Zalo PC using C++/Qt
+
+### Mobile PM / CEO | 2010 - 2015
+- **DTD Mobile Vietnam (CEO):** Managed 5-10 member team delivering Viettel Telecom projects (Qualcomm-sponsored)
+- **Tosy Robotics:** Led Android client development team
+- **FPT:** Delivered Nhacso 2.5 Android implementation
+- **Zing:** Developed Zing MP3 Android app (pre-installed on Samsung Galaxy Y Vietnam)
+
+---
+
+## EDUCATION
+
+### B.Sc. Computer Science | University of Saarland, Germany | 2005 - 2010
+- Focus: Algorithms & Data Structures
+
+### High School for Gifted Students | Vietnam | 1999 - 2005
+
+---
+
+## KEY ACHIEVEMENTS
+
+- **Zalo AI 2018 Winner:** Image recognition category
+- **NWERC 2006:** 8th place, outperforming Oxford and Cambridge teams
+- **National Programming Contest:** 2nd prize
+- **Team Development:** Mentored 3 engineers who advanced to CTO, EM, and AI R&D Manager roles
+- **Vietnam Trifactor 2021:** 9th place finish
+
+---
+
+## TECHNICAL SKILLS
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, Java, C++, JavaScript |
+| **AI/ML** | LLM Applications, Langchain, OpenAI, Data Mining |
+| **Frameworks** | Qt, Android SDK |
+| **Methods** | Scrum, Agile, R&D Leadership |
+
+---
+
+## RECENT WORKS
+
+Recently I am working on coding agents and how to make them self-improved.
+
+### [Autonomous self-improved software team](https://github.com/hungson175/AI-teams-controller-public)
+Based on Claude-Code + tmux
+
+![AI Teams Controller](ai-teams-controller.png)
+
+### [coder-mem](https://github.com/hungson175/coder-mem)
+I reverse-engineered claude-code and give it memory so it can improve itself
+
+![Coder Mem](coder-mem.png)
+
+### [Deep-Research](https://github.com/hungson175/deep-research-langchain)
+I rewrite the deep-research from langgraph to langchain - I hate langgraph, and it's a good exercise
+
+### [My blog on coding-agent memory](https://github.com/hungson175/AI-teams-controller-public/blob/master/memory-system/docs/tech/memory_guide_draft_v7.md)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hungson175&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hungson175&layout=compact&langs_count=8&theme=default)
