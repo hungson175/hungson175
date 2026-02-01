@@ -66,6 +66,9 @@ Reverse-engineered Claude Code to give it **memory capabilities** so coding agen
 ### [Deep-Research](https://github.com/hungson175/deep-research-langchain)
 Rewrote GPT-Researcher architecture from LangGraph to LangChain - autonomous research system for comprehensive multi-source analysis.
 
+### [How I Reverse Engineered Claude Code (And What I Learned)](blogs/reverse-claude-code-blog.md)
+Intercepted Claude Code's traffic, extracted the system prompt, and discovered its architecture is shockingly simple: a while loop, append-only memory, and human-like RAG with no indexing.
+
 ### [AI Coding Agent Memory Guide](https://github.com/hungson175/AI-teams-controller-public/blob/master/memory-system/docs/tech/memory_guide_draft_v7.md)
 Technical blog on implementing memory systems for coding agents using vector databases and retrieval patterns.
 
