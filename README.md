@@ -72,6 +72,12 @@ Intercepted Claude Code's traffic, extracted the system prompt, and discovered i
 ### [AI Coding Agent Memory Guide](https://github.com/hungson175/AI-teams-controller-public/blob/master/memory-system/docs/tech/memory_guide_draft_v7.md)
 Technical blog on implementing memory systems for coding agents using vector databases and retrieval patterns.
 
+### Other Notable Projects
+
+- 🎙️ **[voice-everywhere](https://github.com/hungson175/voice-everywhere)** — Global voice input for macOS — speak anywhere, text appears at cursor
+- 🗣️ **[voice-vs-extension](https://github.com/hungson175/voice-vs-extension)** — VVoice — VS Code extension: voice commands to terminal via Soniox STT + xAI Grok
+- 📚 **[html2epub](https://github.com/hungson175/html2epub)** — Convert web pages to EPUB and send to Kindle in one command
+
 <br/>
 
 ## Connect With Me
