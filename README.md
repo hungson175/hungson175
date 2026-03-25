@@ -74,6 +74,7 @@ Technical blog on implementing memory systems for coding agents using vector dat
 
 ### Other Notable Projects
 
+- 🎓 **[hl-tutor](https://github.com/hungson175/hl-tutor)** — Terminal-based coding tutor for beginners — Claude Code as a patient tutor in a tmux split-pane
 - 🎙️ **[voice-everywhere](https://github.com/hungson175/voice-everywhere)** — Global voice input for macOS — speak anywhere, text appears at cursor
 - 🗣️ **[voice-vs-extension](https://github.com/hungson175/voice-vs-extension)** — VVoice — VS Code extension: voice commands to terminal via Soniox STT + xAI Grok
 - 📚 **[html2epub](https://github.com/hungson175/html2epub)** — Convert web pages to EPUB and send to Kindle in one command
