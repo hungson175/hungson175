@@ -50,7 +50,7 @@ Software Engineer with **20+ years** of experience spanning AI/ML, LLM applicati
 ## Recent Projects
 
 ### [Mini Claw Code](https://github.com/hungson175/mini-claw-code)
-Learn **context engineering** in **68 lines of Python**. Same model, different engineering, wildly different results — this teaches you why.
+Learn **context engineering** — the core idea behind Claude Code — in **68 lines of Python**. Same model, different engineering, wildly different results.
 
 ### [Autonomous Self-Improving Software Teams](https://github.com/hungson175/AI-teams-controller-public)
 Multi-agent teams based on Claude Code + tmux where AI agents collaborate autonomously on sprints. Features include:
