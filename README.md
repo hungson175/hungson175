@@ -50,7 +50,7 @@ Software Engineer with **20+ years** of experience spanning AI/ML, LLM applicati
 ## Recent Projects
 
 ### [Mini Claw Code](https://github.com/hungson175/mini-claw-code)
-A Claude Code clone in **68 lines of Python**. Two tools: Bash + TodoWrite. That's it — the same agentic loop that powers the real thing.
+**68 lines of Python** that teach you **context engineering** — the core idea behind Claude Code. Three levers: system prompt (who), tool descriptions (behavioral nudges disguised as docs), and tool results (the agent engineers its own context in real-time). Two tools: Bash + TodoWrite. That's all you need to understand why the same model with different engineering produces wildly different results.
 
 ### [Autonomous Self-Improving Software Teams](https://github.com/hungson175/AI-teams-controller-public)
 Multi-agent teams based on Claude Code + tmux where AI agents collaborate autonomously on sprints. Features include:
