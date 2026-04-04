@@ -49,6 +49,9 @@ Software Engineer with **20+ years** of experience spanning AI/ML, LLM applicati
 
 ## Recent Projects
 
+### [Mini Claw Code](https://github.com/hungson175/mini-claw-code)
+Educational minimal clone of Claude Code — just 2 tools: **Bash + TodoWrite**. Demonstrates the agentic while-loop and context engineering concepts that power the most capable coding agents today. Perfect companion to the [reverse engineering blog](blogs/reverse-claude-code-blog.md).
+
 ### [Autonomous Self-Improving Software Teams](https://github.com/hungson175/AI-teams-controller-public)
 Multi-agent teams based on Claude Code + tmux where AI agents collaborate autonomously on sprints. Features include:
 - Team-based sprint workflow (PO, Scrum Master, Tech Lead, Frontend, Backend, QA)
