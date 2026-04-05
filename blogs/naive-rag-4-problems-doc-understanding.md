@@ -1,5 +1,32 @@
 # 4 Problems of Naive RAG for Document Understanding
 
+```mermaid
+flowchart LR
+    subgraph Naive RAG
+        A[Document] --> B[Chunk]
+        B --> C[Embed]
+        C --> D[Top-K Retrieve]
+        D --> E[Stuff into Prompt]
+    end
+
+    E --> F{4 Problems}
+    F --> G[1. Lost Big Picture]
+    F --> H[2. Chunks Lose Context]
+    F --> I[3. Knowledge Fragmented]
+    F --> J[4. Bad Ranking]
+
+    subgraph Agentic Fix
+        K[Agent Loop ~10 lines] --> L[read_toc]
+        K --> M[extending_read]
+        K --> N[search + preview + fetch]
+    end
+
+    G --> K
+    H --> K
+    I --> K
+    J --> K
+```
+
 ## Summary
 
 Naive RAG has 4 fundamental problems:
