@@ -75,6 +75,13 @@ Intercepted Claude Code's traffic, extracted the system prompt, and discovered i
 ### [AI Coding Agent Memory Guide](https://github.com/hungson175/AI-teams-controller-public/blob/master/memory-system/docs/tech/memory_guide_draft_v7.md)
 Technical blog on implementing memory systems for coding agents using vector databases and retrieval patterns.
 
+## Blogs
+
+- [4 Problems of Naive RAG for Document Understanding](blogs/naive-rag-4-problems-doc-understanding.md) — Why naive RAG breaks and how agentic loops fix all four problems
+- *More coming: memory systems for AI agents*
+
+<br/>
+
 ### Other Notable Projects
 
 - 🎓 **[hl-tutor](https://github.com/hungson175/hl-tutor)** — Terminal-based coding tutor for beginners — Claude Code as a patient tutor in a tmux split-pane
