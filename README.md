@@ -49,6 +49,15 @@ Software Engineer with **20+ years** of experience spanning AI/ML, LLM applicati
 
 ## Recent Projects
 
+### [dep — Typed Decisions, Not Text](https://github.com/hungson175/dep)
+Get **calibrated, schema-safe answers** from an LLM with **one generated token**: put an equal `logit_bias` on the allowed answers, then softmax their logprobs.
+- Nothing to parse: values outside the schema can't be produced
+- Yes/no, multiple choice and rubric scores, each with a confidence number
+- Prefill only, so it's fast on a local llama.cpp model
+- Notebooks try the trick on DeepSeek and GPT-5.6, and show where it breaks
+
+![dep](https://raw.githubusercontent.com/hungson175/dep/main/docs/screenshot.png)
+
 ### [Mini Claw Code](https://github.com/hungson175/mini-claw-code)
 Learn **context engineering** — the core idea behind Claude Code — in **68 lines of Python**. Same model, different engineering, wildly different results.
 
